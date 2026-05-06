@@ -12,6 +12,3 @@ This platform allows users to browse courses, enroll as students, and track thei
 * **Frontend**: HTML, CSS, Thymeleaf
 * **Database**: H2 (default local database)
 
-credits -
-akash-
-bhavith-4CB22CB014
