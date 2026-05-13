@@ -15,5 +15,5 @@ This platform allows users to browse courses, enroll as students, and track thei
 CREDITS
 
 AKASH-4CB22CS006
-
 BHAVITH-4CB22CB014
+Manikantha Annappa Naik-4cb23cs403
